@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="label_upcoming_movie">Upcoming Movie</string>
+</resources>
